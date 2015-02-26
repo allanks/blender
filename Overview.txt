@@ -1,0 +1,22 @@
+This Game will be a 3D Platformer with level generation
+
+Graphics engine:
+
+Azul3D
+
+Programming Language:
+
+Golang
+
+Learning Goals:
+
+3D
+
+Projected time:
+
+1 weeks
+
+1st Week:
+
+3d Vertex
+Level generation

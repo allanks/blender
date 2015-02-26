@@ -1,1 +1,3 @@
-# Blender Obj Parser
+Second game
+
+Record keeping for self reflection
